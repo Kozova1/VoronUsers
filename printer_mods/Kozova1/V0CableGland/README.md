@@ -26,4 +26,6 @@ You should use [This type of cable glands](https://www.amazon.com/gp/product/B07
 3. Add a heat-set insert to the bowden clip and clamp it lightly with an M3x8 screw.
 4. Add the cable gland to the panel.
 5. Add the bowden adapter and clip, connecting them with the M2x16 screws.
-6. Finally, put the panel instead of the original motor panel, and route the wires through it.
+6. Finally, flip the panel and attach instead of the original motor panel.
+7. Route all your electronics (and bowden tube) through the new bowden tube adapters and cable gland
+8. Tighten the bowden clip so it holds the tube, but not so tight that it prevents the filament from moving.
